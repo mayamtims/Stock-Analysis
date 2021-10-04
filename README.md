@@ -12,6 +12,7 @@ During the refactoring process, the code was edited and condensed in order for i
 ![Refractored Code](https://github.com/mayamtims/Stock-Analysis/blob/main/Resources/refractored_code.png)
 
 Code to record the time in which it took the analysis to run was also included to see which version of the code ran faster. As seen in the images below, the refactored code ran quicker than the original code for both years. The images on the left show the time in which it took for the original code to run and the images on the right show the time in which it took for the refactored code to run. 
+
 ![2017 original code](https://github.com/mayamtims/Stock-Analysis/blob/main/Resources/Original_VBA_Challenge_2017.png)
 ![2017 refactored code](https://github.com/mayamtims/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
