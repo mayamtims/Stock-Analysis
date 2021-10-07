@@ -4,7 +4,7 @@
 
 ## Results
 ### Stock Performance Comparison Based on Year
-From on the table formulated from the VBA script that was written, it can be concluded that the stocks performed better in 2017 than they did in 2018. With the exception of the stock TERP, all other stocks had a positive return in 2017. However, in 2018 all stocks besides ENPH and RUN had negative returns.  
+From the table formulated by the VBA script, it can be concluded that the stocks performed better in 2017 than they did in 2018. With the exception of the stock TERP, all other stocks had a positive return in 2017. However, in 2018 all stocks besides ENPH and RUN had negative returns.  
 
 ### Code Execution Time 
 During the refactoring process, the code was edited and condensed in order for it to run quicker and more efficiently. The part of the code that was most refactored pertained to obtaining the total daily volume and return output from the 2017 and 2018 raw data. 
